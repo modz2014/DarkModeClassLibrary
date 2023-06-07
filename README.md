@@ -34,4 +34,4 @@ This the TitleBar to change the color to dark mode but it does not change it at 
                 return Environment.OSVersion.Version.Major >= 10 && Environment.OSVersion.Version.Build >= build;
             }
         }
-        ```
+       
