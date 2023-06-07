@@ -3,8 +3,8 @@
 This is my Basic Darkmode Classs Library Which includes basic ones i will update it when i can if you want to update feel free too
 
 This the TitleBar to change the color to dark mode but it does not change it at runtime at the moment 
-
-```  public static class DarkTitleBarClass
+```
+ public static class DarkTitleBarClass
         {
             [DllImport("dwmapi.dll")]
             private static extern int DwmSetWindowAttribute(IntPtr hwnd, int attr, ref int attrValue, int attrSize);
@@ -33,4 +33,5 @@ This the TitleBar to change the color to dark mode but it does not change it at 
             {
                 return Environment.OSVersion.Version.Major >= 10 && Environment.OSVersion.Version.Build >= build;
             }
-        }```
+        }
+        ```
