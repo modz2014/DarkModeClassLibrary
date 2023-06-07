@@ -1,0 +1,6 @@
+C:\Users\Modz2014\source\repos\DarkMOdeTest\DarkModeLibrary\bin\Debug\DarkModeLibrary.dll
+C:\Users\Modz2014\source\repos\DarkMOdeTest\DarkModeLibrary\bin\Debug\DarkModeLibrary.pdb
+C:\Users\Modz2014\source\repos\DarkMOdeTest\DarkModeLibrary\obj\Debug\DarkModeLibrary.csproj.AssemblyReference.cache
+C:\Users\Modz2014\source\repos\DarkMOdeTest\DarkModeLibrary\obj\Debug\DarkModeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Modz2014\source\repos\DarkMOdeTest\DarkModeLibrary\obj\Debug\DarkModeLibrary.dll
+C:\Users\Modz2014\source\repos\DarkMOdeTest\DarkModeLibrary\obj\Debug\DarkModeLibrary.pdb
